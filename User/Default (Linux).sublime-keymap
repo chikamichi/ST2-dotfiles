@@ -1,0 +1,5 @@
+[
+    { "keys": ["alt+k"], "command": "show_at_center_and_blink" },
+    { "keys": ["alt+shift+k"], "command": "show_at_center_and_blink", "args": {"do_center": false} },
+    { "keys": ["ctrl+shift+t"], "command": "delete_trailing_spaces"}
+]
